@@ -1,6 +1,6 @@
-# Game Design Porfolio
+# Porfolio
 
-Repo where I will keep my Game Design/Programming Porfolio 
+Repo where I will keep my Porfolio 
 
 
 # Everybody's Sick Now
